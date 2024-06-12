@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    /* font-family: 'Oxygen', sans-serif; */
+    /* font-family: 'Protest Riot', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+
+.intro-header {
+    color: #00FF00;
+    font-size: 30px;
+}
+
+.intro-text {
+    font-size: 18px;
+}
+
+.section-header {
+    color: #00BFFF;
+    font-size: 20px;
+}
+
+.section-text {
+    font-size: 18px;
+}
+
+.outro-text {
+    color: #ff00b3;
+    font-size: 18px;
+}
